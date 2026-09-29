@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ayhan
 
-<!--
-**asengel/asengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a geo-energy engineering professional with a Master of Science (M.Sc) from Penn State University. My work spans a diverse portfolio of geo-energy projects from oil and gas to energy transition such as geothermal, carbon capture and storage (CCS), and underground gas/hydrogen storage. I actively leverage programming, data analytics and machine learning to elevate and modernize engineering workflows.
 
-Here are some ideas to get you started:
+## 🛠 Technical stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming & scientific computing**
+
+Python · NumPy · Pandas · SciPy · Scikit-learn · C++ · SQL · Git · MATLAB
+
+**Reservoir & Production Engineering**
+
+Petrel · ECLIPSE 100/300 · OPM Flow · CMG IMEX/GEM/STARS/CMOST · tNavigator · KAPPA Saphir/Rubis/Topaze · PIPESIM · OLGA · OFM · PVTsim · Petex IPM
+
+**Geospatial & Data Visualization**
+
+QGIS · Power BI · Tableau
+
+**Machine Learning**
+
+Scikit-learn · TensorFlow · PyTorch
+
+## 🚀 Current interests
+
+I am particularly interested in:
+
+- Open-source reservoir simulation
+- Automated history matching
+- Scientific software development
+- Applying modern computational methods to subsurface engineering
